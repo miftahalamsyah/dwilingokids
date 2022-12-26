@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Homepage"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/homepage"
+        android:enabled="true"/>
+    <item
+        android:title="Category"
+        android:icon="@drawable/ic_category"
+        android:id="@+id/category"
+        android:enabled="true"/>
+    <item
+        android:title="Profile"
+        android:icon="@drawable/ic_person"
+        android:id="@+id/profile"
+        android:enabled="true"/>
+</menu>
